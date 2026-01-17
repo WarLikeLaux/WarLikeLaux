@@ -2,15 +2,15 @@
 
 <div align="center">
 
-![Backend](https://img.shields.io/badge/Backend-focused-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Fullstack](https://img.shields.io/badge/Fullstack_Developer-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Age](https://img.shields.io/badge/26_лет-FF6B6B?style=for-the-badge) ![Location](https://img.shields.io/badge/Омск-4ECDC4?style=for-the-badge) ![IT Experience](https://img.shields.io/badge/9%2B_лет_в_IT-4FC08D?style=for-the-badge) ![Dev Experience](https://img.shields.io/badge/5%2B_лет_в_разработке-009688?style=for-the-badge)
+![Backend-focused PHP Developer](https://img.shields.io/badge/Backend-focused_PHP_Developer-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Age](https://img.shields.io/badge/26_лет-FF6B6B?style=for-the-badge) ![IT Experience](https://img.shields.io/badge/9%2B_лет_в_IT-4FC08D?style=for-the-badge) ![Dev Experience](https://img.shields.io/badge/5%2B_лет_в_разработке-009688?style=for-the-badge)
 
 </div>
 
-> Специализируюсь на проектировании систем со сложной бизнес-логикой, внедрении архитектурных паттернов и автоматизации разработки. Благодаря опыту в системном администрировании и технической поддержке, обеспечиваю полный цикл жизни продукта: от проектирования схемы БД до настройки CI/CD пайплайнов и мониторинга production-окружения.
+> Превращаю сложную бизнес-логику в элегантные архитектурные решения на PHP. Внедряю архитектурные паттерны и автоматизирую процессы разработки. Благодаря опыту в системном администрировании и технической поддержке, обеспечиваю полный цикл жизни продукта: от проектирования схемы БД до настройки CI/CD пайплайнов и мониторинга production-окружения.
 
 ## 📬 Контакты и профили
 
-[![Telegram](https://img.shields.io/badge/-@teagamesen-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/teagamesen) [![📧 Email](https://img.shields.io/badge/-warlikelaux080399@mail.ru-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:warlikelaux080399@mail.ru) [![Codewars](https://img.shields.io/badge/-Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white)](https://www.codewars.com/users/WarLikeLaux) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/WarLikeLaux/) [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://ru.stackoverflow.com/users/394231/warlikelaux)
+[![Портфолио](https://img.shields.io/badge/-Портфолио-4285F4?style=flat-square&logo=google-chrome&logoColor=white)](https://warlikelaux.github.io/) [![Telegram](https://img.shields.io/badge/-@teagamesen-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/teagamesen) [![📧 Email](https://img.shields.io/badge/-warlikelaux080399@mail.ru-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:warlikelaux080399@mail.ru) [![Codewars](https://img.shields.io/badge/-Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white)](https://www.codewars.com/users/WarLikeLaux) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/WarLikeLaux/) [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://ru.stackoverflow.com/users/394231/warlikelaux)
 
 ## 🛠 Технологический стек
 
@@ -54,7 +54,6 @@
 ![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WarLikeLaux&theme=nord_dark)
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WarLikeLaux&theme=nord_dark)
-![GitHub Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WarLikeLaux&theme=nord_dark)
 
 </div>
 
