@@ -8,9 +8,9 @@
 
 > Специализируюсь на проектировании систем со сложной бизнес-логикой, внедрении архитектурных паттернов и автоматизации разработки. Благодаря опыту в системном администрировании и технической поддержке, обеспечиваю полный цикл жизни продукта: от проектирования схемы БД до настройки CI/CD пайплайнов и мониторинга production-окружения.
 
-## 📬 Контакты
+## 📬 Контакты и профили
 
-[![Telegram](https://img.shields.io/badge/-@teagamesen-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/teagamesen) [![📧 Email](https://img.shields.io/badge/-warlikelaux080399@mail.ru-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:warlikelaux080399@mail.ru) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/WarLikeLaux)
+[![Telegram](https://img.shields.io/badge/-@teagamesen-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/teagamesen) [![📧 Email](https://img.shields.io/badge/-warlikelaux080399@mail.ru-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:warlikelaux080399@mail.ru) [![Codewars](https://img.shields.io/badge/-Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white)](https://www.codewars.com/users/WarLikeLaux) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/WarLikeLaux/) [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://ru.stackoverflow.com/users/394231/warlikelaux)
 
 ## 🛠 Технологический стек
 
@@ -58,14 +58,8 @@
 
 </div>
 
-## 🎯 Профили и активность
+## 💡 Дополнительно
 
-[![Codewars](https://img.shields.io/badge/-Codewars-B1361E?style=flat-square&logo=codewars&logoColor=white)](https://www.codewars.com/users/WarLikeLaux) [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/WarLikeLaux/) [![Stack Overflow](https://img.shields.io/badge/-Stack_Overflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white)](https://ru.stackoverflow.com/users/394231/warlikelaux)
-
-## 💡 Дополнительные навыки
+**Образование:** два красных диплома (бакалавриат и магистратура в сфере IT). Придерживаюсь аналитического подхода: сначала проектирование структуры и связей, затем написание кода.
 
 **Скорость печати:** 500+ знаков в минуту (RU/EN). Это позволяет быстро фиксировать идеи и писать подробную техническую документацию.
-
-## 🎓 Образование
-
-Два красных диплома (бакалавриат и магистратура в сфере IT). Придерживаюсь аналитического подхода: сначала проектирование структуры и связей, затем написание кода.
