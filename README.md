@@ -36,10 +36,6 @@
 
 > *📊 Технологии отсортированы по уровню экспертизы*
 
-<table>
-<tr>
-<td width="65%">
-
 | Категория | Технологии |
 |-----------|------------|
 | **Backend** | ![PHP](https://img.shields.io/badge/-PHP_8.4-777BB4?style=flat-square&logo=php&logoColor=white) ![Yii2](https://img.shields.io/badge/-Yii_2-FD8C00?style=flat-square&logo=yii&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) |
@@ -49,24 +45,24 @@
 | **Инфраструктура** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white) |
 | **AI-инструменты** | ![Claude](https://img.shields.io/badge/-Claude_Code-FF6B35?style=flat-square) ![Codex](https://img.shields.io/badge/-Codex-00A8E8?style=flat-square) ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google&logoColor=white) |
 
+> Ориентируюсь на принципы **Clean Architecture**, понимая необходимость прагматичных компромиссов. Систематически работаю с техническим долгом, так как это инвестиция в скорость разработки и снижение стоимости поддержки
+
+## 📊 Статистика GitHub
+
+<table>
+<tr>
+<td width="60%">
+
+![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WarLikeLaux&theme=nord_dark)
+
 </td>
-<td width="35%" align="right" valign="top">
+<td width="40%" valign="top">
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WarLikeLaux&theme=nord_dark)
 
 </td>
 </tr>
 </table>
-
-> Ориентируюсь на принципы **Clean Architecture**, понимая необходимость прагматичных компромиссов. Систематически работаю с техническим долгом, так как это инвестиция в скорость разработки и снижение стоимости поддержки
-
-## 📊 Статистика GitHub
-
-<div align="center">
-
-![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WarLikeLaux&theme=nord_dark)
-
-</div>
 
 ## 💡 Дополнительно
 
