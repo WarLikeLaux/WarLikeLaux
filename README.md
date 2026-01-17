@@ -6,46 +6,38 @@
 
 ## 🛠 Технологический стек
 
-### Backend
-![PHP](https://img.shields.io/badge/-PHP_8.4-777BB4?style=flat-square&logo=php&logoColor=white) **PHP 8.4** (Yii 2, Laravel) · ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) **MySQL** · ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) **Redis** · **RabbitMQ** · **Elasticsearch**
+| Категория | Технологии |
+|-----------|------------|
+| **Backend** | ![PHP](https://img.shields.io/badge/-PHP_8.4-777BB4?style=flat-square&logo=php&logoColor=white) ![Yii2](https://img.shields.io/badge/-Yii_2-FD8C00?style=flat-square&logo=yii&logoColor=white) ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white) |
+| **Frontend** | ![Vue.js](https://img.shields.io/badge/-Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) |
+| **Инфраструктура** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white) |
+| **AI-инструменты** | ![Claude](https://img.shields.io/badge/-Claude_Code-FF6B35?style=flat-square) ![Codex](https://img.shields.io/badge/-Codex-00A8E8?style=flat-square) ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google&logoColor=white) |
 
-Проектирую системы, придерживаясь принципов **Clean Architecture**
-
-### Frontend
-![Vue.js](https://img.shields.io/badge/-Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) **Vue 3** (Composition API) · ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) **React** · ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) **TypeScript** · ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) **Tailwind CSS**
-
-### Инфраструктура
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) **Docker** · ![GitLab CI/CD](https://img.shields.io/badge/-CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white) **CI/CD** (GitLab Runner) · **Linux** (CentOS, Ubuntu) · **Nginx**
-
-Пишу и поддерживаю конфигурации Docker Compose самостоятельно
-
-### AI-инструментарий
-Использование агентов **Claude Code**, **Codex** и **Gemini** через систему «промпт-контрактов» для генерации ТЗ и проектирования архитектуры
+> Проектирую системы, придерживаясь принципов **Clean Architecture**
 
 ---
 
 ## 🚀 Проекты
 
-### [yii2-book-catalog](https://github.com/WarLikeLaux/yii2-book-catalog)
-Реализация принципов **Clean Architecture** на фреймворке Yii 2. В проекте применены: **DDD**, **CQRS**, **HTMX** и асинхронный поиск. Обеспечено **100% покрытие тестами** (Code Coverage) и высокий Infection Mutation Score.
-
-### [rock-breaker](https://github.com/WarLikeLaux/rock-breaker)
-Геймифицированный трекер привычек для преодоления исполнительной дисфункции. Проект превращает рутину в игру, где выполнение задач визуализируется как разрушение «Скалы».
-
-### [time-planner](https://github.com/WarLikeLaux/time-planner)
-Умный планировщик распорядка дня для разработчиков. Основной фокус сделан на визуализацию рабочего времени и соблюдение **Work-Life Balance**.
-
-### [smart-multi-timer](https://github.com/WarLikeLaux/smart-multi-timer)
-Десктопное приложение на Python для комплексного трекинга времени и управления продуктивностью.
+| Проект | Описание | Технологии |
+|--------|----------|------------|
+| **[yii2-book-catalog](https://github.com/WarLikeLaux/yii2-book-catalog)** | Реализация принципов Clean Architecture на фреймворке Yii 2. Применены: DDD, CQRS, HTMX и асинхронный поиск. Обеспечено 100% покрытие тестами (Code Coverage) и высокий Infection Mutation Score. | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![Yii2](https://img.shields.io/badge/-Yii_2-FD8C00?style=flat-square&logo=yii&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![HTMX](https://img.shields.io/badge/-HTMX-1D4ED8?style=flat-square) |
+| **[rock-breaker](https://github.com/WarLikeLaux/rock-breaker)** | Геймифицированный трекер привычек для преодоления исполнительной дисфункции. Проект превращает рутину в игру, где выполнение задач визуализируется как разрушение «Скалы». | ![Vue](https://img.shields.io/badge/-Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **[time-planner](https://github.com/WarLikeLaux/time-planner)** | Умный планировщик распорядка дня для разработчиков. Основной фокус сделан на визуализацию рабочего времени и соблюдение Work-Life Balance. | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **[smart-multi-timer](https://github.com/WarLikeLaux/smart-multi-timer)** | Десктопное приложение на Python для комплексного трекинга времени и управления продуктивностью. | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) |
 
 ---
 
 ## 📊 Статистика GitHub
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WarLikeLaux&show_icons=true&theme=nord&hide_border=true&title_color=3178C6&icon_color=3178C6" alt="WarLikeLaux's GitHub stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WarLikeLaux&layout=compact&theme=nord&hide_border=true&title_color=3178C6" alt="Top Languages" />
-</p>
+<div align="center">
+
+![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WarLikeLaux&theme=nord_dark)
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WarLikeLaux&theme=nord_dark)
+![GitHub Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WarLikeLaux&theme=nord_dark)
+
+</div>
 
 ---
 
