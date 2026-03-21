@@ -24,11 +24,11 @@
 
 > **Реализация принципов Clean Architecture на фреймворке Yii 2**
 > 
-> Применены: **DDD**, **CQRS**, **HTMX**, работа с несколькими БД и асинхронный поиск. Обеспечено **100% покрытие тестами** (Code Coverage) и высокий Infection Mutation Score.
+> Применены: **DDD**, **CQS**, **HTMX**, работа с несколькими БД и асинхронный поиск. Обеспечено **100% покрытие тестами** (Code Coverage) и высокий Infection Mutation Score.
 
 <div align="center">
 
-![Code Coverage](https://img.shields.io/badge/Code_Coverage-100%25-brightgreen?style=for-the-badge) ![Architecture](https://img.shields.io/badge/Architecture-Clean_Architecture-blue?style=for-the-badge) ![Pattern](https://img.shields.io/badge/Pattern-DDD%20%7C%20CQRS-purple?style=for-the-badge)
+![Code Coverage](https://img.shields.io/badge/Code_Coverage-100%25-brightgreen?style=for-the-badge) ![Architecture](https://img.shields.io/badge/Architecture-Clean_Architecture-blue?style=for-the-badge) ![Pattern](https://img.shields.io/badge/Pattern-DDD%20%7C%20CQS-purple?style=for-the-badge)
 
 </div>
 
