@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Backend-focused PHP Developer](https://img.shields.io/badge/Backend-focused_PHP_Developer-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Age](https://img.shields.io/badge/26_лет-FF6B6B?style=for-the-badge) ![IT Experience](https://img.shields.io/badge/9%2B_лет_в_IT-4FC08D?style=for-the-badge) ![Dev Experience](https://img.shields.io/badge/5%2B_лет_в_разработке-009688?style=for-the-badge)
+![Backend-focused PHP Developer](https://img.shields.io/badge/Backend-focused_PHP_Developer-777BB4?style=for-the-badge&logo=php&logoColor=white) ![Age](https://img.shields.io/badge/27_лет-FF6B6B?style=for-the-badge) ![IT Experience](https://img.shields.io/badge/9%2B_лет_в_IT-4FC08D?style=for-the-badge) ![Dev Experience](https://img.shields.io/badge/5%2B_лет_в_разработке-009688?style=for-the-badge)
 
 </div>
 
