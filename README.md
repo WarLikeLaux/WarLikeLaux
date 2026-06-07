@@ -45,8 +45,6 @@
 | **Инфраструктура** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white) |
 | **AI-инструменты** | ![Claude](https://img.shields.io/badge/-Claude_Code-FF6B35?style=flat-square) ![Codex](https://img.shields.io/badge/-Codex-00A8E8?style=flat-square) ![Gemini](https://img.shields.io/badge/-Gemini-4285F4?style=flat-square&logo=google&logoColor=white) |
 
-> Ориентируюсь на принципы **Clean Architecture**, понимая необходимость прагматичных компромиссов. Систематически работаю с техническим долгом, так как это инвестиция в скорость разработки и снижение стоимости поддержки
-
 ## 📊 Статистика GitHub
 
 <table>
@@ -63,9 +61,3 @@
 </td>
 </tr>
 </table>
-
-## 💡 Дополнительно
-
-**Образование:** два красных диплома (бакалавриат и магистратура в сфере IT). Придерживаюсь аналитического подхода: сначала проектирование структуры и связей, затем написание кода.
-
-**Скорость печати:** 500+ знаков в минуту (RU/EN). Это позволяет быстро фиксировать идеи и писать подробную техническую документацию.
